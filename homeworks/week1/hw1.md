@@ -14,6 +14,15 @@
 9. 將完成的作業做 commit 的動作 : `git commit -am "Finished hw"`
 10. 將 commit 完的內容 push 上去至 Github 端 : `git push origin week1`
 11. 到 GitHub 上點選 open pull request，接著發出 pull request
+12. 把 PR 的連結複製起來到學習系統上繳交作業
+
+---
+
+## 作業改完後
+
+1. 切換到 master : `git checkout master`
+2. 把最新的改動拉下來 : `git pull origin master`
+3. 刪除已經 merge 的 branch : `git branch -d week1`
 
 
 
