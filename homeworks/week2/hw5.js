@@ -3,7 +3,9 @@ function join(arr, concatStr) {
   for (var i = 0; i < arr.length; i++) {
     if (i < arr.length - 1) {
       newStr = newStr + arr[i] + concatStr;
-    } else newStr = newStr + arr[i];
+    } else {
+      newStr = newStr + arr[i];
+    }
   }
   return newStr;
 }
