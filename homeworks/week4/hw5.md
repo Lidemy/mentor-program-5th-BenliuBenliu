@@ -1,6 +1,6 @@
 ## 請以自己的話解釋 API 是什麼
 
-API（Application Programming Interface）的中文名稱為應用程式介面，扮演應用程式和應用程式之間的橋樑。透過 API 可以讓雙方交換資料。向對方發出 request 要求所想要的資料，對方 response 資料回來,
+API（Application Programming Interface）的中文名稱為應用程式介面，扮演應用程式和應用程式之間的橋樑。透過 API 可以讓雙方交換資料。向對方發出 request 要求所想要的資料，對方 response 資料回來。
 
 ## 請找出三個課程沒教的 HTTP status code 並簡單介紹
 201 Created : 請求成功且新的資料成功被創建
